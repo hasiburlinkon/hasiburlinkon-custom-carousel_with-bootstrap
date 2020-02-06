@@ -1,0 +1,114 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.slider h1 {
+	    color: lightgreen;
+	    font-size: 9px;
+	    margin-bottom: 10px;
+	    margin-top: 14px;
+	}
+	.slider p {
+	    font-size: 5px;
+	    margin-bottom: 2px;
+	}
+	.slider button {
+	    margin-bottom: 2px;
+	    margin-top: 2px;
+	}
+	.btn {
+    padding: 2px 4px;
+    font-size: 7px;
+	}
+	.cus-indi-col li {
+	    width: 5px;
+	    height: 5px;
+	}
+	.carousel-control-prev-icon, .carousel-control-next-icon {
+	    margin-top: 5px;
+	}
+	.carousel-control-prev-icon, .carousel-control-next-icon {
+	    width: 10px;
+	}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.slider h1 {
+	    color: lightgreen;
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	    margin-top: 55px;
+	}
+	.slider p {
+	    font-size: 8px;
+	    margin-bottom: 5px;
+	}
+	.slider button {
+	    margin-bottom: 10px;
+	    margin-top: 5px;
+	}
+	.btn{
+		padding: 4px 7px;
+    	font-size: 9px;
+	}
+	.cus-indi-sm li {
+	    width: 6px;
+	    height: 6px;
+	}
+	.carousel-control-prev-icon, .carousel-control-next-icon {
+	    margin-top: 50px;
+	}
+	.carousel-control-prev-icon, .carousel-control-next-icon {
+	    width: 11px;
+	}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.slider h1 {
+	    color: lightgreen;
+	    font-size: 21px;
+	    margin-bottom: 10px;
+	    margin-top: 60px;
+	}
+	.slider p {
+	    font-size: 10px;
+	    margin-bottom: 10px;
+	}
+	.btn {
+	    padding: 3px 6px;
+    	font-size: 12px;   
+	}
+	.cus-indi-md li {
+	    width: 9px;
+	    height: 9px;
+	}
+	.carousel-control-prev-icon, .carousel-control-next-icon {
+	    width: 12px;
+    	margin-bottom: 95px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.slider h1 {
+	    color: lightgreen;
+	    font-size: 33px;  
+	}
+	.slider p {
+	    font-size: 16px;
+	    margin-bottom: 20px;
+	}
+	.cus-indi-lg li {
+	    width: 14px;
+	    height: 14px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1799.98px) { 
+
+	}	
+/*custom devices (large desktops, 1600px- up)*/
+@media (min-width: 1800px) { 
+
+	}	

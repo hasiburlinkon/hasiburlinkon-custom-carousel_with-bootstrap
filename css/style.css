@@ -1,0 +1,47 @@
+.banner{
+	background-image: url(../images/web.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.slider{
+	background-color: rgba(1,1,1,0.5);
+	padding: 55px;
+	color: white;
+	text-align: center;
+}
+
+.slider h1 {
+    color: lightgreen;
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 145px;
+}
+
+.slider p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.slider button{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.custom-color{
+	color: lightgreen;
+}
+
+.carousel-indicators {
+    bottom: 5px; 
+}
+.carousel-indicators li {
+    
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    margin-top: 115px;
+}
